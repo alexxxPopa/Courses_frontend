@@ -1,0 +1,9 @@
+{
+  "name": "Courses",
+  "version": "1.0.0",
+  "description": "Courses frontend app",
+  "main": "index.js",
+  "repository": "https://github.com/alexxxPopa/Courses_frontend.git",
+  "author": "Alex Popa",
+  "license": "MIT"
+}
